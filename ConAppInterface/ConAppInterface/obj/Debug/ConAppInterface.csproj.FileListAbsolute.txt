@@ -1,0 +1,8 @@
+D:\Mphasis\Live Session\Day15\ConAppInterface\ConAppInterface\bin\Debug\ConAppInterface.exe.config
+D:\Mphasis\Live Session\Day15\ConAppInterface\ConAppInterface\bin\Debug\ConAppInterface.exe
+D:\Mphasis\Live Session\Day15\ConAppInterface\ConAppInterface\bin\Debug\ConAppInterface.pdb
+D:\Mphasis\Live Session\Day15\ConAppInterface\ConAppInterface\obj\Debug\ConAppInterface.csproj.AssemblyReference.cache
+D:\Mphasis\Live Session\Day15\ConAppInterface\ConAppInterface\obj\Debug\ConAppInterface.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Live Session\Day15\ConAppInterface\ConAppInterface\obj\Debug\ConAppInterface.csproj.CoreCompileInputs.cache
+D:\Mphasis\Live Session\Day15\ConAppInterface\ConAppInterface\obj\Debug\ConAppInterface.exe
+D:\Mphasis\Live Session\Day15\ConAppInterface\ConAppInterface\obj\Debug\ConAppInterface.pdb
